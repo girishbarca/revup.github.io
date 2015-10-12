@@ -1,0 +1,15 @@
+.dashboard{
+  position:relative;
+}
+.fabdiv {
+  position: absolute;
+  cursor: pointer;
+right:    0;
+bottom:   0;
+}
+.fab{
+  cursor: pointer;   color: #00ff00;
+}
+.filediv{
+	cursor:pointer;
+}
